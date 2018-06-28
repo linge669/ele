@@ -1,6 +1,4 @@
 import React from "react";
-import "../style/yscz.css";
-
 //自己引入这里并在下边调用
 import Hasakei from "./yao.js";
 import Lin from "./lin.js";
