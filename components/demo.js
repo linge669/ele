@@ -5,6 +5,7 @@ import Lin from "./lin.js";
 import Lin2 from "./lin2.js";
 import Top from "./hao.js";
 import Foot from "./hao2.js";
+import "../style/yscz.css"
 class Demo extends React.Component{
 	constructor(props){
 		super(props)
