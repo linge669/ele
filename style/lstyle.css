@@ -1,0 +1,95 @@
+.l_xianliang{
+	border-radius: 3px;
+	width: 40vw;
+	background: whitesmoke;
+	display: inline-block;
+	height: 180px;
+	margin: 10px 5px;
+	font-size: 16px;
+	padding: 10px;
+}
+.l_xianliang h3{
+	font-weight: 100;
+	color: red;
+	font-size: 16px;
+}
+.l_xianliang p{
+	font-size: 12px;
+	color: #cecece;
+}
+.l_xianliang p:nth-of-type(2){
+	color: black;
+}
+.l_xianliang p span{
+	color: red;
+	
+}
+.l_banner{
+	border-radius: 3px;
+	height: 100px;
+	background: yellow;
+}
+.l_kuai{
+	
+	display: flex;
+	margin: 10px;
+	justify-content: space-around;
+}
+.l_second{
+	border-radius: 3px;
+	width: 30vw;
+	height: 100px;
+	display: flex;
+	flex-direction: column;
+	background: whitesmoke;
+	padding: 10px 0;
+	margin: 10px 5px;
+}
+.l_second p{
+	text-align: center;
+	font-size: 16px;
+	height: 20px;
+	line-height: 20px;
+}
+.l_second span{
+	display: inline-block;
+	margin: 0 auto;
+	font-size: 12px;
+	height: 20px;
+	line-height: 20px;
+	color: #cecece;
+	border: 1px solid #000000;
+}
+.l_left{
+	padding: 5px;
+	font-size: 14px;
+	flex: 1;
+	border-radius: 3px;
+	display: inline-block;
+	height: 100px;
+	background: whitesmoke;
+	margin: 10px 5px;
+}
+.l_left p:nth-of-type(1){
+	height: 20px;
+	font-size: 12px;
+	line-height: 20px;
+}
+.l_left p:nth-of-type(2) {
+	height: 20px;
+	line-height: 20px;
+	font-size: 16px;
+	color: red;
+}
+.l_left p:nth-of-type(2) b{
+	color: black;
+}
+
+.l_right{
+	padding: 5px;
+	margin: 10px 10px;
+	width: 35vw;
+	height: 100px;
+	display: inline-block;
+	background: yellow;
+}
