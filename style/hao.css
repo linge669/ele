@@ -1,0 +1,147 @@
+
+#h_top{
+	width:100vw;
+	height: 40px;
+	background: #0195ff;
+	color: white;
+}
+#h_top .h_area{
+	width: 50%;
+	height: 40px;
+	font-size: 18px;
+	float: left;
+	line-height: 40px;
+}
+#h_top .h_area span{
+	display: inline-block;
+	width: 12px;
+	height: 12px;
+	background: white;
+	border-radius: 50%;
+	margin-left: 10px;
+	margin-right: 5px;
+}
+#h_top .h_area b{
+	display: inline-block;
+	width: 0px;
+	height: 0px;
+	border-top: 5px solid white;
+	margin-left: 10px;
+}
+#h_top .h_hongbao{
+	width: 40px;
+	height: 30px;
+	margin-top: 5px;
+	font-size: 12px;
+	float: right;
+	margin-right: 10px;
+}
+#h_search{
+	width: 100vw;
+	height: 65px;
+	background: #0195ff;
+}
+#h_search input{
+	width: 80vw;
+	height: 30px;
+	margin: 5px 10vw;
+	border: 0;
+	border-radius: 3px;
+	text-align: center;
+	color: #999999;
+}
+#h_search ul{
+	width: 100vw;
+	height: 20px;
+}
+#h_search ul li{
+	float: left;
+	width: 20%;
+	height: 20px;
+	text-align: center;
+	color: white;
+	font-size: 12px;
+	line-height: 20px;
+}
+#h_pic{
+	width: 100vw;
+	height: 70px;
+	background: #59ecfe;
+	font-size: 24px;
+}
+#h_pic .pic{
+	width: 100%;
+	height: 70px;
+	color: white;
+	text-align: center;
+	line-height: 70px;
+}
+#h_list{
+	width: 100vw;
+	height: 140px;
+	background: white;
+}
+#h_list ul{
+	width: 100%;
+	height: 120px;
+	color: #666666;
+}
+#h_list ul li{
+	width: 20vw;
+	height: 45px;
+	text-align: center;
+	float: left;
+	font-size: 14px;
+	margin-top: 10px;
+}
+#h_list ul li span{
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background: #0a26b8;
+}
+.h_gongdong{
+	width: 35px;
+	height: 20px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.h_huadong{
+	display: inline-block;
+	width: 10px;
+	height: 3px;
+	border-radius: 1px;
+	background: #999999;
+	margin-right: 5px;
+}
+#h_footer{
+	width: 100vw;
+	height: 40px;
+	background: #f7f7f7;
+	border-top: 1px solid #999999;
+	color: #999999;
+	position: fixed;
+	bottom: 0;
+}
+#h_footer ul{
+	width: 100vw;
+	height: 40px;
+}
+#h_footer ul li{
+	width: 25vw;
+	height: 40px;
+	float: left;
+	text-align: center;
+}
+#h_footer ul li span{
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background: #818181;
+}
+#h_footer ul li p{
+	font-size: 12px;
+	text-align: center;
+}
